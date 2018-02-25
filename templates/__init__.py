@@ -1,0 +1,4 @@
+config = {
+    "templates" : "",
+    "static": ""
+}
